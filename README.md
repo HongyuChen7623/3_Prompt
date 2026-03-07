@@ -1,6 +1,6 @@
 # 🔬 Prompt工程实验平台
 
-一个基于 Streamlit 和 Hugging Face API 的 Prompt 工程实验平台，帮助你系统性地测试和优化 Prompt，提升 LLM 应用效果。
+A Prompt Engineering Experiment Platform based on Streamlit and Hugging Face API, helping you systematically test and optimize Prompts to enhance the effectiveness of LLM applications.
 
 ## ✨ 功能特性
 
